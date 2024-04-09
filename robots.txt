@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bogvidwasueo.github.io/sitemap.xml
